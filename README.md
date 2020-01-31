@@ -1,1 +1,1 @@
-# Welcome to SnapPal!
+Welcome to SnapPal!
