@@ -1,1 +1,1 @@
-# snappal.github.io
+# Welcome to SnapPal!
